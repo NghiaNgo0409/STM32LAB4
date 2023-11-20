@@ -1,0 +1,2 @@
+uart_fsm.c:26:6:command_parser_fsm	16	static
+uart_fsm.c:54:6:uart_communication_fsm	8	static
